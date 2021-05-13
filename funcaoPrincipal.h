@@ -1,0 +1,1 @@
+void principal (char* arquivo);
